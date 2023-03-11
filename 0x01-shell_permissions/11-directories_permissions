@@ -1,10 +1,2 @@
 #!/bin/bash
-<<<<<<< HEAD
-<<<<<<< HEAD
-find . -type d -exec chmod 755 {} \
-=======
 find . -type d -exec chmod 755
->>>>>>> 6bb8fbb01060a5cec5b8814306f7c18847053042
-=======
-find . -type d -exec chmod 755
->>>>>>> 6bb8fbb01060a5cec5b8814306f7c18847053042
